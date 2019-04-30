@@ -1,0 +1,5 @@
+import java.rmi.*;
+
+public class ServerImplementation implements ServerInterface {
+    
+}

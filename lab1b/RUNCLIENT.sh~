@@ -1,0 +1,15 @@
+#! /bin/bash
+
+echo Port?:
+
+read var1
+
+echo Size?:
+
+read var2
+
+echo server_ip?:
+
+read var3
+
+java TcpClientDouble $var1 $var2 $var3

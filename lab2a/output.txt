@@ -1,0 +1,30 @@
+array a:
+array b:
+sending 500 rows to rank 0
+sending 500 rows to rank 1
+rank[1] at cssmpi1: multiplication completed
+result c:
+time elapsed = 7483 msec
+rank[0] at cssmpi1: multiplication completed
+array a:
+array b:
+sending 334 rows to rank 0
+sending 333 rows to rank 1
+sending 333 rows to rank 2
+result c:
+time elapsed = 5480 msec
+rank[1] at cssmpi1: multiplication completed
+rank[0] at cssmpi1: multiplication completed
+rank[2] at cssmpi1: multiplication completed
+array a:
+array b:
+sending 250 rows to rank 0
+sending 250 rows to rank 1
+sending 250 rows to rank 2
+sending 250 rows to rank 3
+rank[1] at cssmpi1: multiplication completed
+rank[3] at cssmpi1: multiplication completed
+result c:
+time elapsed = 5120 msec
+rank[0] at cssmpi1: multiplication completed
+rank[2] at cssmpi1: multiplication completed

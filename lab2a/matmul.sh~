@@ -1,0 +1,7 @@
+#! /bin/bash
+
+mpdboot -n 4 -v;
+prunjava 2 MatrixMult 2000;
+prunjava 3 MatrixMult 2000;
+prunjava 4 MatrixMult 2000;
+mpdallexit;
